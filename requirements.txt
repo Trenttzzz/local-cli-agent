@@ -1,5 +1,9 @@
 langchain
+langchain-community
 llama-cpp-python
 watchdog
 python-dotenv
+python-daemon
+argparse
+ollama
 
